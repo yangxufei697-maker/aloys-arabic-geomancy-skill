@@ -1,0 +1,6 @@
+interface:
+  display_name: "阿拉伯地占学习助手"
+  short_description: "按课程体系讲解、练习与辅助解盘的学习助手"
+  default_prompt: "Use $arabic-geomancy-tutor to guide me through an Arabic geomancy concept, practice chart, or interpretation question."
+policy:
+  allow_implicit_invocation: true
